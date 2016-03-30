@@ -1,0 +1,28 @@
+name: borisbaranov
+favicon: null
+layout_spectrum: 0.9472607581410557
+typography_spectrum: 0.1045788680203259
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.63034030306153
+  lightness: 0.794245790457353
+  saturation: 0.23459876189008355
+  rhythmicContrast: 0.8513913520146161
+purpose: []
