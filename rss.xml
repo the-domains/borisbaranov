@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[borisbaranov]]></title>
+        <description><![CDATA[borisbaranov]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 30 Mar 2016 18:17:39 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Обо мне]]></title>
+            <description><![CDATA[<article><h1>Обо мне</h1><p>Привет!</p></article>]]></description>
+            <link>undefinedobo-mne/index.html</link>
+            <guid isPermaLink="false">2ff9b2f6-641d-4187-85a7-5c820ba2a201</guid>
+            <pubDate>Wed, 30 Mar 2016 18:17:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
